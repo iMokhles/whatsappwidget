@@ -6,7 +6,7 @@ WhatsApp Widget For (ProWidgets)
 Licenses
 ========
 
-Copyright (c) 2014, Mokhlas Hussein Ali (iMokhles)
+Copyright (c) 2014, Mokhlas Hussein Aly (iMokhles)
 All rights reserved.
 
 Redistribution and use in source and binary forms, with or without
