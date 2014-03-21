@@ -1,0 +1,8 @@
+Package: com.imokhles.whatsappwidget
+Name: WhatsAppWidget
+Depends: cc.tweak.prowidgets, firmware (>= 7.0)
+Version: 1.0rc
+Architecture: iphoneos-arm
+Description: WhatsAppWidget for ProWidgets
+Author: iMokhles
+Section: Addons (ProWidgets)
